@@ -1,5 +1,5 @@
 # Fortnite-API-Tracker
- A plaintext tracker using the Fortnite-API
+ A fortnite tracker which exports the info into the terminal and optionally into a  text file.
 
 ## Documentation
  To use this follow these steps: 
